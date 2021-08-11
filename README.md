@@ -24,4 +24,3 @@ PC移行時用
 - Vetur
 - Visual Studio IntelliCode
 - vscode-icons
-- 
