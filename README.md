@@ -1,7 +1,6 @@
 # vscode
-PC移行時用
 
-## 拡張機能(a-z)
+## expantions(a-z)
 
 - Auto Close Tag
 - Auto Rename Tag
