@@ -14,6 +14,7 @@
 - HTMLHint
 - IntelliSense for CSS class names in HTML
 - Japanese Langage Pack for Visual Studio Code
+- Markdown All in One
 - Material Icon Theme
 - Path Autocomplete
 - React Native Snippet
