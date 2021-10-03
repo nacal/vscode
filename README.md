@@ -19,6 +19,7 @@
 - Path Autocomplete
 - React Native Snippet
 - stylelint
+- Svelte for VS Code
 - Tailwind CSS IntelliSense
 - Txt Syntax
 - Vetur
